@@ -1,8 +1,9 @@
 # Virtual-Mouse
+
 Interactive Motion Recognition Using Image Processing
 
 Packages Needed to be installed 
-PyAutoGUI
+-> PyAutoGUI
 -> OpenCV
 
 Software Required 
